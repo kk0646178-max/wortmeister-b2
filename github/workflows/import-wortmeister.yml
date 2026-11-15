@@ -1,0 +1,32 @@
+name: Import WORTMEISTER B2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract source
+        run: |
+          unzip -q WortMeister-B2.zip -d /tmp/wortmeister
+          test -f /tmp/wortmeister/wortmeister-b2-independent/index.html
+          cp -a /tmp/wortmeister/wortmeister-b2-independent/. .
+          rm -rf /tmp/wortmeister
+          rm -f WortMeister-B2.zip
+
+      - name: Save extracted files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Import WORTMEISTER B2 source"
+            git push
+          fi
