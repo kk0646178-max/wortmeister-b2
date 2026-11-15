@@ -1,0 +1,1227 @@
+{
+  "app": "WORTMEISTER-B2",
+  "version": 2,
+  "exportedAt": "2026-11-15T00:00:00.000Z",
+  "words": [
+    {
+      "id": "bank-1",
+      "de": "die Auseinandersetzung",
+      "ar": "الخلاف / النقاش الحاد",
+      "article": "die",
+      "pos": "noun",
+      "plural": "die Auseinandersetzungen",
+      "topic": "relationships",
+      "example": "Eine sachliche Auseinandersetzung hilft, Konflikte in der Familie zu lösen.",
+      "exampleAr": "يساعد النقاش الموضوعي على حلّ النزاعات داخل الأسرة.",
+      "collocations": [
+        "eine Auseinandersetzung führen",
+        "sich mit einem Thema auseinandersetzen"
+      ],
+      "note": "أكثر رسمية وعمقاً من der Streit، وتُستخدم أيضاً للنقاش الفكري.",
+      "cloze": "Auseinandersetzung",
+      "source": "bank",
+      "createdAt": 0,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-10",
+      "de": "verschwenden",
+      "ar": "يُهدر / يبذّر",
+      "article": "",
+      "pos": "verb",
+      "plural": "",
+      "topic": "environment",
+      "example": "Wir sollten keine Lebensmittel verschwenden.",
+      "exampleAr": "ينبغي ألا نُهدر المواد الغذائية.",
+      "collocations": [
+        "Energie verschwenden",
+        "Zeit verschwenden"
+      ],
+      "note": "الاسم: die Verschwendung.",
+      "cloze": "verschwenden",
+      "source": "bank",
+      "createdAt": 9,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-11",
+      "de": "die Arbeitsbedingungen",
+      "ar": "ظروف العمل",
+      "article": "die",
+      "pos": "noun",
+      "plural": "nur Plural",
+      "topic": "work",
+      "example": "Gute Arbeitsbedingungen steigern die Motivation der Beschäftigten.",
+      "exampleAr": "ظروف العمل الجيدة ترفع حافز العاملين.",
+      "collocations": [
+        "die Arbeitsbedingungen verbessern"
+      ],
+      "note": "تُستخدم غالباً بصيغة الجمع.",
+      "cloze": "Arbeitsbedingungen",
+      "source": "bank",
+      "createdAt": 10,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-12",
+      "de": "das Vorstellungsgespräch",
+      "ar": "مقابلة العمل",
+      "article": "das",
+      "pos": "noun",
+      "plural": "die Vorstellungsgespräche",
+      "topic": "work",
+      "example": "Ich habe mich gründlich auf das Vorstellungsgespräch vorbereitet.",
+      "exampleAr": "استعددتُ جيداً لمقابلة العمل.",
+      "collocations": [
+        "zu einem Vorstellungsgespräch einladen"
+      ],
+      "note": "مرادف: das Bewerbungsgespräch.",
+      "cloze": "Vorstellungsgespräch",
+      "source": "bank",
+      "createdAt": 11,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-13",
+      "de": "die Weiterbildung",
+      "ar": "التدريب المستمر / التأهيل الإضافي",
+      "article": "die",
+      "pos": "noun",
+      "plural": "die Weiterbildungen",
+      "topic": "work",
+      "example": "Regelmäßige Weiterbildung ist im Berufsleben unerlässlich.",
+      "exampleAr": "التأهيل المستمر ضروري في الحياة المهنية.",
+      "collocations": [
+        "an einer Weiterbildung teilnehmen"
+      ],
+      "note": "تختلف عن die Ausbildung (التدريب المهني الأول).",
+      "cloze": "Weiterbildung",
+      "source": "bank",
+      "createdAt": 12,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-14",
+      "de": "die Vereinbarkeit",
+      "ar": "التوفيق (بين أمرين)",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "work",
+      "example": "Die Vereinbarkeit von Beruf und Familie ist für viele Eltern schwierig.",
+      "exampleAr": "التوفيق بين العمل والأسرة صعب على كثير من الآباء والأمهات.",
+      "collocations": [
+        "die Vereinbarkeit von Beruf und Familie"
+      ],
+      "note": "من الفعل vereinbaren.",
+      "cloze": "Vereinbarkeit",
+      "source": "bank",
+      "createdAt": 13,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-15",
+      "de": "sich bewerben",
+      "ar": "يتقدّم بطلب (لوظيفة)",
+      "article": "",
+      "pos": "verb",
+      "plural": "",
+      "topic": "work",
+      "example": "Sie hat sich um eine Stelle als Ingenieurin beworben.",
+      "exampleAr": "تقدّمت لوظيفة مهندسة.",
+      "collocations": [
+        "sich um eine Stelle bewerben",
+        "sich bei einer Firma bewerben"
+      ],
+      "note": "um + الوظيفة، bei + الشركة. التصريف: bewarb – hat beworben.",
+      "cloze": "beworben",
+      "source": "bank",
+      "createdAt": 14,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-16",
+      "de": "die Voraussetzung",
+      "ar": "الشرط المسبق",
+      "article": "die",
+      "pos": "noun",
+      "plural": "die Voraussetzungen",
+      "topic": "education",
+      "example": "Gute Deutschkenntnisse sind eine wichtige Voraussetzung für das Studium.",
+      "exampleAr": "المعرفة الجيدة بالألمانية شرط مسبق مهم للدراسة الجامعية.",
+      "collocations": [
+        "die Voraussetzungen erfüllen",
+        "unter der Voraussetzung, dass …"
+      ],
+      "note": "الفعل الشائع معها: erfüllen.",
+      "cloze": "Voraussetzung",
+      "source": "bank",
+      "createdAt": 15,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-17",
+      "de": "der Studiengang",
+      "ar": "البرنامج / التخصص الجامعي",
+      "article": "der",
+      "pos": "noun",
+      "plural": "die Studiengänge",
+      "topic": "education",
+      "example": "Er möchte nach dem ersten Semester den Studiengang wechseln.",
+      "exampleAr": "يريد تغيير تخصصه الجامعي بعد الفصل الأول.",
+      "collocations": [
+        "einen Studiengang wählen",
+        "den Studiengang wechseln"
+      ],
+      "note": "برنامج دراسي محدّد، لا الدراسة عموماً.",
+      "cloze": "Studiengang",
+      "source": "bank",
+      "createdAt": 16,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-18",
+      "de": "das Stipendium",
+      "ar": "المنحة الدراسية",
+      "article": "das",
+      "pos": "noun",
+      "plural": "die Stipendien",
+      "topic": "education",
+      "example": "Sie hat ein Stipendium für ihr Masterstudium erhalten.",
+      "exampleAr": "حصلت على منحة لدراسة الماجستير.",
+      "collocations": [
+        "ein Stipendium erhalten",
+        "sich um ein Stipendium bewerben"
+      ],
+      "note": "جمع غير منتظم: Stipendien.",
+      "cloze": "Stipendium",
+      "source": "bank",
+      "createdAt": 17,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-19",
+      "de": "fördern",
+      "ar": "يدعم / ينمّي",
+      "article": "",
+      "pos": "verb",
+      "plural": "",
+      "topic": "education",
+      "example": "Gute Lehrkräfte fördern die Begabungen ihrer Schüler.",
+      "exampleAr": "المعلمون الجيدون ينمّون مواهب طلابهم.",
+      "collocations": [
+        "die Kreativität fördern",
+        "Talente fördern"
+      ],
+      "note": "لا تخلط مع fordern (يطالب).",
+      "cloze": "fördern",
+      "source": "bank",
+      "createdAt": 18,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-2",
+      "de": "der Kompromiss",
+      "ar": "الحلّ الوسط / التسوية",
+      "article": "der",
+      "pos": "noun",
+      "plural": "die Kompromisse",
+      "topic": "relationships",
+      "example": "Bei Meinungsverschiedenheiten muss man oft einen Kompromiss eingehen.",
+      "exampleAr": "عند اختلاف الآراء يجب غالباً القبول بحلّ وسط.",
+      "collocations": [
+        "einen Kompromiss eingehen",
+        "einen Kompromiss finden"
+      ],
+      "note": "الفعل الأشيع معها: eingehen أو finden.",
+      "cloze": "Kompromiss",
+      "source": "bank",
+      "createdAt": 1,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-20",
+      "de": "der Abschluss",
+      "ar": "الشهادة / التخرّج",
+      "article": "der",
+      "pos": "noun",
+      "plural": "die Abschlüsse",
+      "topic": "education",
+      "example": "Nach dem Abschluss möchte sie im Ausland arbeiten.",
+      "exampleAr": "بعد التخرّج تريد العمل في الخارج.",
+      "collocations": [
+        "einen Abschluss machen",
+        "der Schulabschluss"
+      ],
+      "note": "تختلف عن der Schluss (النهاية).",
+      "cloze": "Abschluss",
+      "source": "bank",
+      "createdAt": 19,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-21",
+      "de": "die Berichterstattung",
+      "ar": "التغطية الإعلامية",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "media",
+      "example": "Eine objektive Berichterstattung ist die Grundlage einer freien Presse.",
+      "exampleAr": "التغطية الإعلامية الموضوعية أساس الصحافة الحرة.",
+      "collocations": [
+        "objektive Berichterstattung",
+        "über etwas berichten"
+      ],
+      "note": "اسم رسمي يُستخدم في نصوص الإعلام.",
+      "cloze": "Berichterstattung",
+      "source": "bank",
+      "createdAt": 20,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-22",
+      "de": "der Datenschutz",
+      "ar": "حماية البيانات",
+      "article": "der",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "media",
+      "example": "Der Datenschutz spielt bei Online-Diensten eine zentrale Rolle.",
+      "exampleAr": "تؤدي حماية البيانات دوراً محورياً في الخدمات الإلكترونية.",
+      "collocations": [
+        "den Datenschutz gewährleisten"
+      ],
+      "note": "مذكّر: der Schutz.",
+      "cloze": "Datenschutz",
+      "source": "bank",
+      "createdAt": 21,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-23",
+      "de": "beeinflussen",
+      "ar": "يؤثّر في",
+      "article": "",
+      "pos": "verb",
+      "plural": "",
+      "topic": "media",
+      "example": "Soziale Medien beeinflussen die Meinung vieler Jugendlicher.",
+      "exampleAr": "تؤثّر وسائل التواصل في آراء كثير من الشباب.",
+      "collocations": [
+        "jemanden stark beeinflussen",
+        "eine Entscheidung beeinflussen"
+      ],
+      "note": "بلا حرف جر + Akk.، بعكس Einfluss haben auf.",
+      "cloze": "beeinflussen",
+      "source": "bank",
+      "createdAt": 22,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-24",
+      "de": "die Digitalisierung",
+      "ar": "الرقمنة",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "media",
+      "example": "Die Digitalisierung verändert die Arbeitswelt grundlegend.",
+      "exampleAr": "تغيّر الرقمنة عالم العمل تغييراً جذرياً.",
+      "collocations": [
+        "die Digitalisierung vorantreiben"
+      ],
+      "note": "الفعل: digitalisieren.",
+      "cloze": "Digitalisierung",
+      "source": "bank",
+      "createdAt": 23,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-25",
+      "de": "die Reizüberflutung",
+      "ar": "الإغراق بالمؤثرات",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "media",
+      "example": "Die ständige Reizüberflutung durch Smartphones schadet der Konzentration.",
+      "exampleAr": "الإغراق المستمر بالمؤثرات عبر الهواتف يضرّ بالتركيز.",
+      "collocations": [
+        "unter Reizüberflutung leiden"
+      ],
+      "note": "Reiz (مؤثّر) + Überflutung (فيضان).",
+      "cloze": "Reizüberflutung",
+      "source": "bank",
+      "createdAt": 24,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-26",
+      "de": "die Vorbeugung",
+      "ar": "الوقاية",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "health",
+      "example": "Regelmäßiger Sport dient der Vorbeugung von Krankheiten.",
+      "exampleAr": "تفيد الرياضة المنتظمة في الوقاية من الأمراض.",
+      "collocations": [
+        "zur Vorbeugung",
+        "Krankheiten vorbeugen + Dat."
+      ],
+      "note": "مرادف: die Prävention.",
+      "cloze": "Vorbeugung",
+      "source": "bank",
+      "createdAt": 25,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-27",
+      "de": "das Wohlbefinden",
+      "ar": "الشعور بالراحة والعافية",
+      "article": "das",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "health",
+      "example": "Ausreichend Schlaf trägt zum Wohlbefinden bei.",
+      "exampleAr": "النوم الكافي يسهم في الشعور بالعافية.",
+      "collocations": [
+        "das körperliche Wohlbefinden",
+        "das seelische Wohlbefinden"
+      ],
+      "note": "محايد ولا يُجمع.",
+      "cloze": "Wohlbefinden",
+      "source": "bank",
+      "createdAt": 26,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-28",
+      "de": "der Bewegungsmangel",
+      "ar": "قلّة الحركة",
+      "article": "der",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "health",
+      "example": "Bewegungsmangel kann zu Rückenschmerzen führen.",
+      "exampleAr": "قد تؤدي قلّة الحركة إلى آلام الظهر.",
+      "collocations": [
+        "unter Bewegungsmangel leiden"
+      ],
+      "note": "الجنس يتبع آخر جزء: der Mangel.",
+      "cloze": "Bewegungsmangel",
+      "source": "bank",
+      "createdAt": 27,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-29",
+      "de": "ausgewogen",
+      "ar": "متوازن",
+      "article": "",
+      "pos": "adj",
+      "plural": "",
+      "topic": "health",
+      "example": "Eine ausgewogene Ernährung ist die Basis für Gesundheit.",
+      "exampleAr": "التغذية المتوازنة أساس الصحة.",
+      "collocations": [
+        "sich ausgewogen ernähren",
+        "eine ausgewogene Ernährung"
+      ],
+      "note": "تُصرَّف كصفة: ausgewogene, ausgewogenen …",
+      "cloze": "ausgewogene",
+      "source": "bank",
+      "createdAt": 28,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-3",
+      "de": "die Hilfsbereitschaft",
+      "ar": "الاستعداد للمساعدة",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "relationships",
+      "example": "Die Hilfsbereitschaft der Nachbarn hat mich tief beeindruckt.",
+      "exampleAr": "أثّر فيّ استعداد الجيران للمساعدة تأثيراً عميقاً.",
+      "collocations": [
+        "große Hilfsbereitschaft zeigen"
+      ],
+      "note": "مشتقة من الصفة hilfsbereit، ولا تُجمع.",
+      "cloze": "Hilfsbereitschaft",
+      "source": "bank",
+      "createdAt": 2,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-30",
+      "de": "sich erholen",
+      "ar": "يستريح / يتعافى",
+      "article": "",
+      "pos": "verb",
+      "plural": "",
+      "topic": "health",
+      "example": "Am Wochenende kann ich mich endlich erholen.",
+      "exampleAr": "في عطلة نهاية الأسبوع أستطيع أخيراً أن أستريح.",
+      "collocations": [
+        "sich gut erholen",
+        "sich von einer Krankheit erholen"
+      ],
+      "note": "الاسم: die Erholung.",
+      "cloze": "erholen",
+      "source": "bank",
+      "createdAt": 29,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-31",
+      "de": "die Sehenswürdigkeit",
+      "ar": "المَعلم السياحي",
+      "article": "die",
+      "pos": "noun",
+      "plural": "die Sehenswürdigkeiten",
+      "topic": "travel",
+      "example": "Berlin bietet zahlreiche historische Sehenswürdigkeiten.",
+      "exampleAr": "تضمّ برلين معالم تاريخية عديدة.",
+      "collocations": [
+        "Sehenswürdigkeiten besichtigen"
+      ],
+      "note": "الفعل المناسب: besichtigen.",
+      "cloze": "Sehenswürdigkeiten",
+      "source": "bank",
+      "createdAt": 30,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-32",
+      "de": "der Austausch",
+      "ar": "التبادل",
+      "article": "der",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "travel",
+      "example": "Ein Auslandssemester fördert den kulturellen Austausch.",
+      "exampleAr": "الفصل الدراسي في الخارج يعزّز التبادل الثقافي.",
+      "collocations": [
+        "der kulturelle Austausch",
+        "sich austauschen über + Akk."
+      ],
+      "note": "مذكّر.",
+      "cloze": "Austausch",
+      "source": "bank",
+      "createdAt": 31,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-33",
+      "de": "die Gastfreundschaft",
+      "ar": "كرم الضيافة",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "travel",
+      "example": "Wir haben die Gastfreundschaft der Einheimischen sehr geschätzt.",
+      "exampleAr": "قدّرنا كثيراً كرم ضيافة السكان المحليين.",
+      "collocations": [
+        "Gastfreundschaft erleben"
+      ],
+      "note": "الجنس يتبع die Freundschaft.",
+      "cloze": "Gastfreundschaft",
+      "source": "bank",
+      "createdAt": 32,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-34",
+      "de": "den Horizont erweitern",
+      "ar": "يوسّع آفاقه",
+      "article": "",
+      "pos": "expr",
+      "plural": "",
+      "topic": "travel",
+      "example": "Reisen hilft, den eigenen Horizont zu erweitern.",
+      "exampleAr": "يساعد السفر على توسيع آفاق المرء.",
+      "collocations": [
+        "den eigenen Horizont erweitern"
+      ],
+      "note": "تعبير اصطلاحي يرفع مستوى التعبير.",
+      "cloze": "Horizont",
+      "source": "bank",
+      "createdAt": 33,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-35",
+      "de": "die Weltoffenheit",
+      "ar": "الانفتاح على العالم",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "travel",
+      "example": "Weltoffenheit zeigt sich im respektvollen Umgang mit anderen Kulturen.",
+      "exampleAr": "يظهر الانفتاح في التعامل المحترم مع الثقافات الأخرى.",
+      "collocations": [
+        "Weltoffenheit zeigen"
+      ],
+      "note": "الصفة: weltoffen.",
+      "cloze": "Weltoffenheit",
+      "source": "bank",
+      "createdAt": 34,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-4",
+      "de": "das Missverständnis",
+      "ar": "سوء الفهم",
+      "article": "das",
+      "pos": "noun",
+      "plural": "die Missverständnisse",
+      "topic": "relationships",
+      "example": "Durch klare Kommunikation lassen sich viele Missverständnisse vermeiden.",
+      "exampleAr": "بالتواصل الواضح يمكن تجنّب كثير من حالات سوء الفهم.",
+      "collocations": [
+        "ein Missverständnis aufklären",
+        "ein Missverständnis vermeiden"
+      ],
+      "note": "الفعل منها: missverstehen.",
+      "cloze": "Missverständnisse",
+      "source": "bank",
+      "createdAt": 3,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-5",
+      "de": "rücksichtsvoll",
+      "ar": "مُراعٍ للآخرين",
+      "article": "",
+      "pos": "adj",
+      "plural": "",
+      "topic": "relationships",
+      "example": "Im Wohnheim sollte man sich rücksichtsvoll verhalten.",
+      "exampleAr": "في السكن المشترك ينبغي أن يتصرّف المرء بمراعاة للآخرين.",
+      "collocations": [
+        "Rücksicht nehmen auf + Akk.",
+        "sich rücksichtsvoll verhalten"
+      ],
+      "note": "عكسها: rücksichtslos.",
+      "cloze": "rücksichtsvoll",
+      "source": "bank",
+      "createdAt": 4,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-6",
+      "de": "der Klimawandel",
+      "ar": "التغيّر المناخي",
+      "article": "der",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "environment",
+      "example": "Der Klimawandel stellt eine der größten Herausforderungen unserer Zeit dar.",
+      "exampleAr": "يمثّل التغيّر المناخي أحد أكبر تحديات عصرنا.",
+      "collocations": [
+        "den Klimawandel bekämpfen",
+        "die Folgen des Klimawandels"
+      ],
+      "note": "لا يُجمع عادةً.",
+      "cloze": "Klimawandel",
+      "source": "bank",
+      "createdAt": 5,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-7",
+      "de": "die Nachhaltigkeit",
+      "ar": "الاستدامة",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "environment",
+      "example": "Viele Unternehmen setzen zunehmend auf Nachhaltigkeit.",
+      "exampleAr": "تعتمد شركات كثيرة بشكل متزايد على الاستدامة.",
+      "collocations": [
+        "auf Nachhaltigkeit setzen",
+        "nachhaltig handeln"
+      ],
+      "note": "الصفة: nachhaltig.",
+      "cloze": "Nachhaltigkeit",
+      "source": "bank",
+      "createdAt": 6,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-8",
+      "de": "die Mülltrennung",
+      "ar": "فرز النفايات",
+      "article": "die",
+      "pos": "noun",
+      "plural": "—",
+      "topic": "environment",
+      "example": "Konsequente Mülltrennung trägt zum Recycling von Rohstoffen bei.",
+      "exampleAr": "يسهم الفرز المنتظم للنفايات في إعادة تدوير المواد الخام.",
+      "collocations": [
+        "Müll trennen",
+        "zur Mülltrennung verpflichtet sein"
+      ],
+      "note": "مركّبة من Müll + Trennung.",
+      "cloze": "Mülltrennung",
+      "source": "bank",
+      "createdAt": 7,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    },
+    {
+      "id": "bank-9",
+      "de": "umweltbewusst",
+      "ar": "واعٍ بيئياً",
+      "article": "",
+      "pos": "adj",
+      "plural": "",
+      "topic": "environment",
+      "example": "Immer mehr Menschen versuchen, umweltbewusst zu leben.",
+      "exampleAr": "يحاول عدد متزايد من الناس العيش بوعي بيئي.",
+      "collocations": [
+        "umweltbewusst handeln",
+        "ein umweltbewusster Lebensstil"
+      ],
+      "note": "الاسم: das Umweltbewusstsein.",
+      "cloze": "umweltbewusst",
+      "source": "bank",
+      "createdAt": 8,
+      "updatedAt": 0,
+      "srs": {
+        "box": 1,
+        "ease": 2.5,
+        "interval": 0,
+        "due": null,
+        "reps": 0,
+        "lapses": 0,
+        "last": null,
+        "introduced": null
+      },
+      "skills": {
+        "recognition": 0,
+        "recall": 0,
+        "production": 0
+      }
+    }
+  ],
+  "events": [],
+  "settings": {
+    "newPerDay": 5,
+    "sessionSize": 25,
+    "tts": true,
+    "ttsRate": 1,
+    "theme": "system"
+  }
+}

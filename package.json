@@ -1,0 +1,10 @@
+{
+  "name": "wortmeister-b2-independent",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/core.test.mjs",
+    "serve": "python3 -m http.server 4173"
+  }
+}
